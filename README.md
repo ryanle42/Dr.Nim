@@ -1,5 +1,5 @@
 # Dr.Nim
 
-Run ./make to start game.
+./make to create ./Play program.
 
-Try to beat Dr. Nim!
+./Play and try to beat Dr. Nim!

@@ -1,8 +1,8 @@
 NAME = Play
 
-SRCS = controls.c drNim.c main.c menu.c pvp.c
+SRCS = ./srcs/controls.c ./srcs/drNim.c ./srcs/main.c ./srcs/menu.c ./srcs/pvp.c
 
-INCLUDES = -I .
+INCLUDES = -I ./includes
 
 all: $(NAME)
 
